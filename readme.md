@@ -1,7 +1,7 @@
 # Tutorial VDO
 https://www.youtube.com/watch?v=0pUVVAeWo8c
 
-[![Tutorial VDO](https://img.youtube.com/vi/0pUVVAeWo8c/0.jpg)](https://www.youtube.com/watch?v=0pUVVAeWo8c)
+[![Tutorial VDO](img-team/หน้าหลัก.png)
 
 # การรันบน NodeJS
 - ใช้คำสั่ง  npm install   เพื่อติดตั้ง
